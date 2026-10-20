@@ -1,0 +1,67 @@
+ProductID,ProductName,Unit,Category,Department,Brand
+P001,Samba Rice,5 kg,Rice & Grains,Grocery,Ceylon Pride
+P002,Nadu Rice,5 kg,Rice & Grains,Grocery,Island Fresh
+P003,Red Raw Rice,5 kg,Rice & Grains,Grocery,Ceylon Pride
+P004,Basmati Rice,1 kg,Rice & Grains,Grocery,Lanka Choice
+P005,Dhal (Mysore),1 kg,Rice & Grains,Grocery,Ceylon Pride
+P006,Green Gram,500 g,Rice & Grains,Grocery,UrbanBasket
+P007,Chickpeas,500 g,Rice & Grains,Grocery,UrbanBasket
+P008,Coconut Oil,1 L,Cooking Essentials,Grocery,GoldenLeaf
+P009,Vegetable Oil,1 L,Cooking Essentials,Grocery,PureLife
+P010,White Sugar,1 kg,COOKING ESSENTIALS ,Grocery,Lanka Choice
+P011,Wheat Flour,1 kg,Cooking Essentials,Grocery,Island Fresh
+P012,Salt,1 kg,Cooking Essentials,Grocery,Island Fresh
+P013,Chilli Powder,250 g,COOKING ESSENTIALS ,Grocery,PureLife
+P014,Curry Powder,250 g,Cooking Essentials,Grocery,Island Fresh
+P015,Turmeric,100 g,COOKING ESSENTIALS ,Grocery,Ceylon Pride
+P016,Full Cream Milk Powder,400 g,Dairy & Eggs,Fresh,UrbanBasket
+P017,Fresh Milk,1 L,Dairy & Eggs,Fresh,GoldenLeaf
+P018,Yoghurt,80 g,Dairy & Eggs,Fresh,UrbanBasket
+P019,Cheese Slices,200 g,Dairy & Eggs,Fresh,PureLife
+P020,Butter,200 g,Dairy & Eggs,Fresh,Ceylon Pride
+P021,Eggs (10 pack),10 pcs,DAIRY & EGGS ,Fresh,Lanka Choice
+P022,Ceylon Black Tea,200 g,Beverages,Grocery,GoldenLeaf
+P023,Instant Coffee,100 g,Beverages,Grocery,UrbanBasket
+P024,Soft Drink,1.5 L,BEVERAGES ,Grocery,Lanka Choice
+P025,Fruit Juice,1 L,BEVERAGES ,Grocery,PureLife
+P026,Mineral Water,1.5 L,Beverages,Grocery,GoldenLeaf
+P027,Energy Drink,250 ml,Beverages,Grocery,Island Fresh
+P028,Malted Drink Powder,400 g,Beverages,Grocery,UrbanBasket
+P029,Cream Crackers,190 g,SNACKS & BISCUITS ,Grocery,Lanka Choice
+P030,Chocolate Biscuits,100 g,SNACKS & BISCUITS ,Grocery,Island Fresh
+P031,Potato Chips,50 g,Snacks & Biscuits,Grocery,UrbanBasket
+P032,Mixture,200 g,Snacks & Biscuits,Grocery,PureLife
+P033,Chocolate Bar,50 g,SNACKS & BISCUITS ,Grocery,PureLife
+P034,Kokis Pack,200 g,Snacks & Biscuits,Grocery,Island Fresh
+P035,Sandwich Bread,450 g,Bakery,Fresh,Island Fresh
+P036,Fish Bun,1 pc,Bakery,Fresh,Island Fresh
+P037,Butter Cake,500 g,BAKERY ,Fresh,Island Fresh
+P038,Rotti Pack,5 pcs,BAKERY ,Fresh,Lanka Choice
+P039,Bananas (Ambul),1 kg,Fruits & Vegetables,Fresh,GoldenLeaf
+P040,Carrots,1 kg,Fruits & Vegetables,Fresh,GoldenLeaf
+P041,Onions (Big),1 kg,FRUITS & VEGETABLES ,Fresh,GoldenLeaf
+P042,Potatoes,1 kg,Fruits & Vegetables,Fresh,Island Fresh
+P043,Tomatoes,1 kg,Fruits & Vegetables,Fresh,Ceylon Pride
+P044,Leeks,1 kg,Fruits & Vegetables,Fresh,UrbanBasket
+P045,Papaya,1 kg,Fruits & Vegetables,Fresh,UrbanBasket
+P046,Chicken (Whole),1 kg,Meat & Fish,Fresh,GoldenLeaf
+P047,Chicken Sausages,500 g,Meat & Fish,Fresh,Ceylon Pride
+P048,Tuna (Kelawalla),1 kg,Meat & Fish,Fresh,Lanka Choice
+P049,Prawns,500 g,MEAT & FISH ,Fresh,GoldenLeaf
+P050,Dried Fish,250 g,MEAT & FISH ,Fresh,Ceylon Pride
+P051,Ice Cream,1 L,Frozen Foods,Fresh,Ceylon Pride
+P052,Frozen Chicken Nuggets,400 g,Frozen Foods,Fresh,Ceylon Pride
+P053,Frozen Mixed Vegetables,500 g,FROZEN FOODS ,Fresh,Ceylon Pride
+P054,Washing Powder,1 kg,Household Care,Non-Food,Island Fresh
+P055,Dishwash Liquid,500 ml,HOUSEHOLD CARE ,Non-Food,PureLife
+P056,Floor Cleaner,1 L,Household Care,Non-Food,Ceylon Pride
+P057,Toilet Cleaner,500 ml,Household Care,Non-Food,GoldenLeaf
+P058,Tissue Rolls,4 pack,Household Care,Non-Food,Ceylon Pride
+P059,Toothpaste,120 g,PERSONAL CARE ,Non-Food,UrbanBasket
+P060,Shampoo,180 ml,Personal Care,Non-Food,GoldenLeaf
+P061,Bath Soap,100 g,Personal Care,Non-Food,PureLife
+P062,Body Lotion,200 ml,Personal Care,Non-Food,UrbanBasket
+P063,Herbal Soap,100 g,Personal Care,Non-Food,PureLife
+P064,Baby Diapers,30 pack,Baby Care,Non-Food,Island Fresh
+P065,Baby Wipes,80 pcs,Baby Care,Non-Food,UrbanBasket
+P066,Infant Formula,400 g,Baby Care,Non-Food,UrbanBasket

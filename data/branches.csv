@@ -1,0 +1,14 @@
+BranchID,BranchName,District,Province,Format,OpenDate,FloorAreaSqFt
+B01,Colombo 07,Colombo,Western,Hypermarket,2016-03-01,15000
+B02,Nugegoda,Colombo,Western,Supermarket,2017-06-01,12800
+B03,Dehiwala,Colombo,Western,Express,2020-09-01,6500
+B04,Negombo,Gampaha,Western,Supermarket,2018-02-01,9800
+B05,Gampaha,Gampaha,Western,Supermarket,2019-05-01,9000
+B06,Panadura,Kalutara,Western,Express,2021-01-01,6300
+B07,Kandy City,Kandy,Central,Hypermarket,2017-11-01,13100
+B08,Peradeniya,Kandy,Central,Express,2022-04-01,5500
+B09,Galle Fort,Galle,Southern,Supermarket,2018-08-01,9300
+B10,Matara,Matara,Southern,Supermarket,2020-03-01,7400
+B11,Kurunegala,Kurunegala,North Western,Supermarket,2019-10-01,8600
+B12,Jaffna,Jaffna,Northern,Supermarket,2023-02-01,7100
+B13,Ratnapura,Ratnapura,Sabaragamuwa,Express,2025-07-01,5800
