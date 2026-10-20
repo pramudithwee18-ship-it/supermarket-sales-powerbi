@@ -161,7 +161,7 @@ Branch Rank = RANKX ( ALL ( Branches[BranchName] ), [Net Sales] )
 Sales per Sq Ft = DIVIDE ( [Net Sales], SUM ( Branches[FloorAreaSqFt] ) )
 ```
 
-> Check your numbers: with no filters, **Net Sales ≈ LKR 322 M** and **Transactions = 90,922**. If yours are different, re-check the duplicate removal in Step 3.
+> Check your numbers: with no filters, **Net Sales ≈ LKR 321 M** and **Transactions = 90,922**. If yours are different, re-check the duplicate removal in Step 3.
 
 > Targets are monthly, so show `Target` and `Target Achievement %` by **month, quarter or year**, not by day.
 
