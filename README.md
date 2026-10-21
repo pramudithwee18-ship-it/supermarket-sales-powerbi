@@ -22,11 +22,18 @@ An interactive **Power BI** dashboard analysing two years (2024–2025) of retai
 
 ## Key insights
 
-_To do: fill in after building the dashboard (see GUIDE.md, Step 7)._
+| # | Insight | Evidence |
+|---|---------|----------|
+| 1 | **Sinhala & Tamil New Year drives the biggest month** | April sales are **1.49×** the monthly average; December (Christmas) is **1.28×**; February is the quietest at **0.73×** |
+| 2 | **Strong growth in 2025** | Net sales grew **15.2%** year-on-year: **10.6%** more transactions plus price increases |
+| 3 | **Two hypermarkets dominate** | Colombo 07 (**Rs 62.7M**) and Kandy City (**Rs 52.1M**) bring in over a third of all sales |
+| 4 | **Targets are slightly too ambitious** | Branches hit **95.9%–98.4%** of target overall, and met their monthly target in only **31%** of months. Panadura is lowest; Gampaha is highest |
+| 5 | **Customers are moving away from cash** | Cash fell from **51.0% → 43.4%** of transactions (2024 → 2025), while mobile wallets grew **12.5% → 17.8%** |
+| 6 | **Weekend evenings are the peak** | Saturday is the busiest day (**16.7k** transactions vs ~11.3k on a Tuesday), and **5–6 pm** is the busiest hour, so roster more cashiers then |
+| 7 | **Best sellers are not the most profitable** | Rice & Grains is the #1 category by sales but has the lowest margin (**9.3%**); Personal Care earns the most (**26.3%**) |
+| 8 | **Loyalty members matter** | **42%** of net sales come from loyalty-card customers |
 
-1. ...
-2. ...
-3. ...
+Overall: **Rs 321.1M** net sales from **90,922** transactions, with a **16.5%** gross margin.
 
 ## Data model
 
