@@ -43,7 +43,7 @@ The data has **deliberate problems**. Finding and fixing them is part of the pro
 | Problem | Fix in Power Query |
 |---------|--------------------|
 | 60 duplicate rows | Select **all columns**, then **Home → Remove Rows → Remove Duplicates** |
-| 896 blank `PaymentMethod` | Select the column, **Transform → Replace Values**, replace an empty value with `Unknown` |
+| 896 blank `PaymentMethod` | Select the column, **Transform → Replace Values**. Leave **Value To Find** completely **empty** and type `Unknown` in **Replace With**. (If blanks remain, they are `null`: use `null` as the value to find.) |
 | 1,345 returns (negative `Quantity`) | Keep them, but add a flag: **Add Column → Conditional Column** `IsReturn` = `TRUE` if `Quantity < 0`, else `FALSE` |
 | Data types | `Date` = Date, `Hour` / `Quantity` / `LineNo` = Whole Number, prices = Decimal, `DiscountPct` = Percentage |
 
